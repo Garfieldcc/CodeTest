@@ -1,0 +1,9 @@
+item                price            qty
+
+book               $17.99              1
+potato chips        $3.99              1
+
+subtotal:                         $21.98
+tax:                               $0.55
+total:                            $36.52
+
